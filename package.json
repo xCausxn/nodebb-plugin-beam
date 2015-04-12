@@ -26,10 +26,10 @@
   "nbbpm": {
     "compatibility": "^0.6.0"
   },
-  "_from": "nodebb-plugin-beam@1.0.0",
+  "_from": "nodebb-plugin-beam@1.0.1",
   "homepage": "https://github.com/xCausxn/nodebb-plugin-beam",
   "dist": {
-    "tarball": "http://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.0.tgz"
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.1.tgz"
   },
   "_npmVersion": "1.4.3",
   "_npmUser": {
@@ -40,5 +40,5 @@
     "xCausxn <xCausxn@hotmail.co.uk>"
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.0.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.1.tgz"
 }
