@@ -13,5 +13,5 @@ This NodeBB plugin allows users to embed Beam Streams inline in their posts.
     https://beam.pro/embed/player/Username
 
 ## Screenshots
-Twitch Single
+Beam Single
 ![beam-plugin.png](http://i.imgur.com/OOvOsU2.png)
