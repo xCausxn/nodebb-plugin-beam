@@ -1,7 +1,7 @@
 (function(module) {
 	"use strict";
 	var Beam = {},
-			embed = '<iframe height="280" width="500" src="https://beam.pro/embed/player/$1"></iframe>';
+			embed = '<iframe height="280" width="500" frameborder="0" src="https://beam.pro/embed/player/$1"></iframe>';
 	var	regularStreamUrl = /<a href="(?:https?:\/\/)?(?:www\.)?(?:beam\.pro)\/(.+)">.+<\/a>/g;
 	var embedStreamUrl = /<a href="(?:https?:\/\/)?(?:www\.)?(?:beam\.pro)\/(?:embed)\/(?:player)\/(.+)">.+<\/a>/g;
 
