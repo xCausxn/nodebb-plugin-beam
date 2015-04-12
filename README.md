@@ -1,20 +1,17 @@
-# NodeBB Twitch Plugin
+# NodeBB Beam Plugin
 
-This NodeBB plugin allows users to embed Twitch Streams and Multi Twitch Streams inline in their posts. 
+This NodeBB plugin allows users to embed Beam Streams inline in their posts.
 
 ## Installation
 
-    npm install nodebb-plugin-twitch
+    npm install nodebb-plugin-beam
 
 ## Usage
 
-    http://www.twitch.tv/CHANNEL
+    https://beam.pro/Username
 
-    http://multitwitch.tv/CHANNEL/CHANNEL
+    https://beam.pro/embed/player/Username
 
 ## Screenshots
 Twitch Single
-![twitch-plugin.png](http://i.imgur.com/Li6o3gT.png) 
-
-Multi Twitch
-![twitch-plugin.png](http://i.imgur.com/by2pOad.jpg) 
+![beam-plugin.png](http://i.imgur.com/OOvOsU2.png)
