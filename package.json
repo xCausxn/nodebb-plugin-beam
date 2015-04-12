@@ -1,0 +1,44 @@
+{
+  "name": "nodebb-plugin-beam",
+  "version": "1.0.0",
+  "description": "NodeBB Beam Plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xCausxn/nodebb-plugin-beam"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "beam",
+    "beam.pro",
+    "video",
+    "embed"
+  ],
+  "author": "xCausxn <xCausxn@hotmail.co.uk>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/xCausxn/nodebb-plugin-beam/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "_from": "nodebb-plugin-beam@1.0.0",
+  "homepage": "https://github.com/xCausxn/nodebb-plugin-beam",
+  "dist": {
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.0.tgz"
+  },
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "xcausxn",
+    "email": "xCausxn@hotmail.co.uk"
+  },
+  "maintainers": [
+    "xCausxn <xCausxn@hotmail.co.uk>"
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-beam/-/nodebb-plugin-beam-1.0.0.tgz"
+}

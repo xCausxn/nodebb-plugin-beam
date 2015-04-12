@@ -1,0 +1,12 @@
+{
+	"id": "nodebb-plugin-beam",
+	"name": "NodeBB Beam Plugin",
+	"description": "This NodeBB plugin allows users to embed Beam.pro Streams in your posts.",
+	"url": "https://github.com/xCausxn/nodebb-plugin-beam",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "filter:parse.post", "method": "parse", "priority": 6
+		}
+	]
+}
